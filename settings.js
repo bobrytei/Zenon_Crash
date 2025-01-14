@@ -8,7 +8,7 @@ const chalk = require('chalk')
 global.ownernomer = "2348086966448"
 global.ownername = "ŦØXXƗN"
 global.ytname = "YT: ToxxicTech"
-global.socialm = "GitHub: Toxic1239"
+global.socialm = "GitHub: bobrytei"
 global.location = "Nigeria"
 
 global.ownernumber = '2348086966448'  //creator number
@@ -29,8 +29,8 @@ global.typemenu = 'v1'
 
 
 //sticker details
-global.packname = 'ΓĦE KƗṈG OҒ CURSES ƗS COMƗṈG ҒOR U ȺLL'
-global.author = 'MȺĐɆ ɃɎ ŦØXXƗN'
+global.packname = 'ΓĦE KING OF CURSE IS COMMING FOR U ALL'
+global.author = 'MADE BY TOXXIN'
 
 //console view/theme
 global.themeemoji = '🤯'
