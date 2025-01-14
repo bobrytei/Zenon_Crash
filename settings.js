@@ -29,8 +29,8 @@ global.typemenu = 'v1'
 
 
 //sticker details
-global.packname = '𝒁𝒆𝒏𝒐𝒏 𝑾𝒊𝒍𝒍 𝑪𝒓𝒂𝒔𝒉 𝑨𝒍𝒍'
-global.author = '𝑴𝒂𝒅𝒆 𝑩𝒚 𝑻𝒐𝒙𝒙𝒊𝒄'
+global.packname = 'ΓĦE KƗṈG OҒ CURSES ƗS COMƗṈG ҒOR U ȺLL'
+global.author = 'MȺĐɆ ɃɎ ŦØXXƗN'
 
 //console view/theme
 global.themeemoji = '🤯'
